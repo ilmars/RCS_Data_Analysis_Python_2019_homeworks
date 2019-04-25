@@ -1,6 +1,6 @@
 {
     "host": "mysql",
     "user": "runis",
-    "passwd": "arLBKErjNpafReNG",
+    "passwd": "",
     "db": "skudra_server"
 }
