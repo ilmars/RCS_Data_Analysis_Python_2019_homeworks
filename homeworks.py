@@ -49,6 +49,9 @@ def isPalindrome(s):
     revString = ''.join(sList)
     return True if revString == s else False
 
+def isPalindrome1(s):
+    return s == s[::-1]
+
 print("Homework Nr. 3")
 print("Write a function to check if string is a palindrome ")
 
